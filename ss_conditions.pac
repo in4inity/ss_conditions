@@ -55,6 +55,7 @@ var __BLOCKEDSITES__ = [
   "*.fortanga.org",
   "*.foxitsoftware.com",
   "*.freemedia.io",
+  "*.fitgirl-repacks.site",
   "*.gagadget.com",
   "*.germania.one",
   "*.getoutline.com",
