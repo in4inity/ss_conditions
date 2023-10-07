@@ -127,6 +127,7 @@ var __BLOCKEDSITES__ = [
   "*.ozodi.org",
   "*.pap.pl",
   "*.paperpaper.ru",
+  "play.google.com",
   "*.paperpaper.io",
   "*.patreon.com",
   "*.politiken.dk",
