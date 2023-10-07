@@ -224,3 +224,6 @@
 (?:^|\.)ozon\.ru$
 (?:^|\.)sberbank\.ru$
 (?:^|\.)wildberries\.ru$
+(?:^|\.)yandex\.ru$
+(?:^|\.)taxi.yandex\.ru$
+(?:^|\.)market.yandex\.ru$
