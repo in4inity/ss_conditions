@@ -202,7 +202,7 @@ var __BLOCKEDSITES__ = [
   "*.vot-tak.tv",
   "*.vpnlove.me",
   "*.welt.de",
-  "*.m.byxatab.com/",
+  "*.m.byxatab.com",
   "*.windscribe.com",
   "*.windowsupdate.com",
   "*.windowsupdate.microsoft.com",
