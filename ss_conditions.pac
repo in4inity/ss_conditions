@@ -28,6 +28,7 @@ var __BLOCKEDSITES__ = [
   "*.currenttime.tv",
   "*.cyxymu.info",
   "*.deepstatemap.live",
+  "*.bing.com",
   "*.delfi.ee",
   "*.delfi.lt",
   "*.delfi.lv",
