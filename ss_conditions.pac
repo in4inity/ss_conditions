@@ -152,6 +152,7 @@ var __BLOCKEDSITES__ = [
   "*.rutor.info",
   "*.rutor.is",
   "*.rutracker.org",
+  "*.rutracker.ru",
   "*.sakhalin.info",
   "*.sakharovfoundation.org",
   "*.saverudata.net",
