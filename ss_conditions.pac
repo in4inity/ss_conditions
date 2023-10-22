@@ -216,6 +216,7 @@ var __BLOCKEDSITES__ = [
   "*.weather.com",
   "weather.com",
   "*.wikiwand.com",
+  "*.softpilot.win",
   "*.api.weather.com",
   "api.weather.com",
   "*.in-the-sky.org",
