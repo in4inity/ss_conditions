@@ -195,6 +195,7 @@ var __BLOCKEDSITES__ = [
   "*.twimg.com",
   "*.twitter.com",
   "*.unian.net",
+  "*.uniondht.org",
   "*.usa.one",
   "*.verstka.media",
   "*.verpex.com",
