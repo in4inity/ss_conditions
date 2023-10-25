@@ -223,6 +223,7 @@ var __BLOCKEDSITES__ = [
   "*.in-the-sky.org",
   "*.yaoilib.me",
   "*.update.microsoft.com",
+  "*.upwork.com",
   "*.download.windowsupdate.com",
   "*.go.microsoft.com",
   "*.login.live.com",
