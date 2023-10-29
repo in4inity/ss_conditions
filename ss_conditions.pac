@@ -172,6 +172,7 @@ var __BLOCKEDSITES__ = [
   "*.strana.news",
   "*.strana.today",
   "*.suicidegirls.com",
+  "*.switch.customfw.xyz",
   "*.suspilne.media",
   "*.svoboda.org",
   "*.svtv.org",
