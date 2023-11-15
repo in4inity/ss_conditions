@@ -64,6 +64,7 @@ var __BLOCKEDSITES__ = [
   "*.getsignal.news",
   "yt3.ggpht.com",
   "news.google.com",
+  "*.goodreads.com",
   "*.grani.ru",
   "*.graty.me",
   "*.hdrezka.ag",
