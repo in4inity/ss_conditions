@@ -19,6 +19,8 @@ var __BLOCKEDSITES__ = [
   "*.bild.de",
   "*.bitwarden.com",
   "*.blackseanews.net",
+  "*.my.chaos.com/products",
+  "*.chaos.com",
   "*.carousell.sg",
   "*.cdninstagram.com",
   "*.centre-t.com",
