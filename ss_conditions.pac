@@ -211,6 +211,7 @@ var __BLOCKEDSITES__ = [
   "*.voanews.com",
   "*.try.chaos.com",
   "*.vot-tak.tv",
+  "*.vgtimes.ru",
   "*.vpnlove.me",
   "*.welt.de",
   "*.m.byxatab.com",
