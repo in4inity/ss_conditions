@@ -244,6 +244,9 @@ var __BLOCKEDSITES__ = [
   "*.yle.fi",
   "*.zahav.ru",
   "*.zerkalo.io",
+  "*.https://arc.msn.com.nsatc.net",
+  "*.https://*.akamaized.net",
+  "*.https://arc.msn.com/v3/Delivery",
   "*.zona.media"
 ];
 
