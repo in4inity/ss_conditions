@@ -247,6 +247,10 @@ var __BLOCKEDSITES__ = [
   "*.https://arc.msn.com.nsatc.net",
   "*.https://*.akamaized.net",
   "*.https://arc.msn.com/v3/Delivery",
+  "*.https://apps.pinnula.ca",
+  "*.https://arc.msn.com/v3/Delivery",
+  "*.https://arc.msn.com.nsatc.net/",
+  "*.https://*.akamaized.net/",
   "*.zona.media"
 ];
 
